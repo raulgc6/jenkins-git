@@ -2,5 +2,4 @@
 A simple project to test jenkins git integration
 And it should be triggered by any change
 
-new test 
-nes test
+new t
